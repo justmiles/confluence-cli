@@ -4,6 +4,8 @@
 ## Installation
 
     sudo curl https://github.com/justmiles/confluence-cli/releases/download/v1.0.0/confluence-cli-1.0.0-linux -o /usr/bin/confluence
+    
+    sudo chmod +x /usr/bin/confluence
 
 
 ## Usage
